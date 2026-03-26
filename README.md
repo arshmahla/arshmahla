@@ -1,8 +1,6 @@
 # ⚡ Arsh — Web Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Apps;Full+Stack+Developer;Clean+Code+%7C+Fast+Performance;Turning+Ideas+Into+Reality" />
 
----
 
 ## 🚀 About Me
 
